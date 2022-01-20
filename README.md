@@ -1,0 +1,2 @@
+# PatikaDevRepo
+Kodluyoruz İlk Repo
